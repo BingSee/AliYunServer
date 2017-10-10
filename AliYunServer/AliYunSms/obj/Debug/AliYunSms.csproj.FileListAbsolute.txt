@@ -1,0 +1,8 @@
+D:\Repository\AliYunServer\AliYunSms\bin\Debug\AliYunSms.dll
+D:\Repository\AliYunServer\AliYunSms\bin\Debug\AliYunSms.pdb
+D:\Repository\AliYunServer\AliYunSms\bin\Debug\aliyun-net-sdk-core.dll
+D:\Repository\AliYunServer\AliYunSms\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+D:\Repository\AliYunServer\AliYunSms\obj\Debug\AliYunSms.csprojResolveAssemblyReference.cache
+D:\Repository\AliYunServer\AliYunSms\obj\Debug\AliYunSms.csproj.CoreCompileInputs.cache
+D:\Repository\AliYunServer\AliYunSms\obj\Debug\AliYunSms.dll
+D:\Repository\AliYunServer\AliYunSms\obj\Debug\AliYunSms.pdb
